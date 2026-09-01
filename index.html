@@ -3,167 +3,65 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Live Homepage</title>
+    <title>My Simple Live Site</title>
     <style>
-        /* Minimalist Modern Stylesheet */
-        * {
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0;
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-        }
-
+        /* This styles your page to make it look clean and centered */
         body {
-            background-color: #f8f9fa;
-            color: #212529;
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            text-align: center;
+            padding: 50px 20px;
+            margin: 0;
+        }
+        .container {
+            max-width: 600px;
+            background: white;
+            padding: 40px;
+            margin: 0 auto;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #007bff;
+        }
+        p {
+            font-size: 18px;
             line-height: 1.6;
         }
-
-        header {
-            background-color: #ffffff;
-            padding: 1rem 2rem;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-            position: sticky;
-            top: 0;
-            z-index: 100;
-        }
-
-        .logo {
-            font-weight: 700;
-            font-size: 1.25rem;
-            color: #0d6efd;
-        }
-
-        nav a {
-            margin-left: 1.5rem;
-            text-decoration: none;
-            color: #495057;
-            font-weight: 500;
-            transition: color 0.2s;
-        }
-
-        nav a:hover {
-            color: #0d6efd;
-        }
-
-        .hero {
-            max-width: 800px;
-            margin: 4rem auto;
-            text-align: center;
-            padding: 0 1rem;
-        }
-
-        .hero h1 {
-            font-size: 3rem;
-            margin-bottom: 1rem;
-            color: #1a1a1a;
-        }
-
-        .hero p {
-            font-size: 1.25rem;
-            color: #6c757d;
-            margin-bottom: 2rem;
-        }
-
-        .btn {
-            background-color: #0d6efd;
-            color: white;
-            padding: 0.75rem 1.5rem;
-            text-decoration: none;
-            border-radius: 6px;
-            font-weight: 600;
-            transition: background-color 0.2s;
-        }
-
-        .btn:hover {
-            background-color: #0b5ed7;
-        }
-
-        .gallery {
-            max-width: 1000px;
-            margin: 2rem auto;
-            padding: 0 1rem;
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 2rem;
-        }
-
-        .card {
-            background: white;
+        img {
+            max-width: 100%;
+            height: auto;
             border-radius: 8px;
-            overflow: hidden;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+            margin: 20px 0;
         }
-
-        .card img {
-            width: 100%;
-            height: 200px;
-            object-fit: cover;
-            background-color: #e9ecef; /* Placeholder color before image loads */
+        .btn {
+            display: inline-block;
+            background-color: #007bff;
+            color: white;
+            padding: 12px 24px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            margin-top: 15px;
         }
-
-        .card-body {
-            padding: 1.5rem;
-        }
-
-        .card-body h3 {
-            margin-bottom: 0.5rem;
-        }
-
-        footer {
-            background-color: #212529;
-            color: #f8f9fa;
-            text-align: center;
-            padding: 2rem;
-            margin-top: 4rem;
+        .btn:hover {
+            background-color: #0056b3;
         }
     </style>
 </head>
 <body>
 
-    <header>
-        <div class="logo">MyBrand</div>
-        <nav>
-            <a href="#">Home</a>
-            <a href="#work">Our Work</a>
-            <a href="#contact">Contact</a>
-        </nav>
-    </header>
+    <div class="container">
+        <h1>Hello World! 👋</h1>
+        <p>Welcome to my brand new website. This page is stored in a GitHub repository and is running live online for free using GitHub Pages.</p>
+        
+        <!-- Replace 'my-photo.jpg' with the exact filename of any image you uploaded -->
+        <img src="my-photo.jpg" alt="My Live Asset Preview">
 
-    <section class="hero">
-        <h1>Welcome to My Live Site</h1>
-        <p>This page was built from a GitHub repository and is hosted entirely on GitHub Pages.</p>
-        <a href="#work" class="btn">Explore Images</a>
-    </section>
-
-    <main id="work" class="gallery">
-        <!-- Card 1 -->
-        <div class="card">
-            <!-- REPLACE 'my-photo.jpg' with your uploaded image file name -->
-            <img src="my-photo.jpg" alt="Project Showcase One">
-            <div class="card-body">
-                <h3>Feature One</h3>
-                <p>Describe your image here. Tell your visitors what they are looking at.</p>
-            </div>
-        </div>
-
-        <!-- Card 2 -->
-        <div class="card">
-            <!-- REPLACE 'another-photo.png' with your second uploaded image -->
-            <img src="another-photo.png" alt="Project Showcase Two">
-            <div class="card-body">
-                <h3>Feature Two</h3>
-                <p>Add some text description here to add context to your second element.</p>
-            </div>
-        </div>
-    </main>
-
-    <footer id="contact">
-        <p>© 2026 My Website. Powered by GitHub Pages.</p>
-    </footer>
+        <br>
+        <a href="https://github.com" class="btn" target="_blank">Visit GitHub Website</a>
+    </div>
 
 </body>
 </html>
