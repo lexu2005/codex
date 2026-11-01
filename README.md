@@ -3,7 +3,10 @@
 Welcome to my personal website project! This is a fully responsive static homepage hosted entirely for free using GitHub Pages.
 
 ## 🔗 Live Demo
-You can view the live website here: [https://github.com/lexu2005]
+You can view the live website here: [Visit Github Homepage](https://github.com/lexu2005)
+
+## Online IPTV Player
+[VidGrid](https://vidgrid.tk.gg/) - Player for IPTV (.m3u8) playlists.
 
 ## 🛠️ Features
 - Clean, modern layout
