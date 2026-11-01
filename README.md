@@ -16,3 +16,7 @@ You can view the live website here: [Visit Github Homepage](https://github.com/l
 ## 📁 Repository Structure
 - `index.html`: The main entry point and structural code for the live site.
 - `my-photo.jpg`: Live hosted asset image used in the showcase section.
+
+<p align="left">
+  <img src="my-photo.jpg" alt="My Photo" width="420">
+</p>
