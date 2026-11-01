@@ -3,7 +3,7 @@
 Welcome to my personal website project! This is a fully responsive static homepage hosted entirely for free using GitHub Pages.
 
 ## 🔗 Live Demo
-You can view the live website here: [Insert Your GitHub Pages Link Here]
+You can view the live website here: [https://github.com/lexu2005]
 
 ## 🛠️ Features
 - Clean, modern layout
