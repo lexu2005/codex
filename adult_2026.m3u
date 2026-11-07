@@ -15,12 +15,18 @@
 
 #EXTINF:-1 group-title="PRIVADO",惊艳台
 http://ctrl.yunshipin.bbroot.com:8080/streams/ds7fcf8th2/gc/playlist.m3u8
+#EXTINF:-1 group-title="PRIVADO",松视1
+http://ctrl.yunshipin.bbroot.com:8080/streams/e5muhgtiwm/gc/playlist.m3u8
+#EXTINF:-1 group-title="PRIVADO",松视2
+http://ctrl.yunshipin.bbroot.com:8080/streams/5kiecachjvk/gc/playlist.m3u8
+#EXTINF:-1 group-title="PRIVADO",潘朵啦玩美台
+http://ctrl.yunshipin.bbroot.com:8080/streams/gn0v29wncgr/gc/playlist.m3u8
 
-#EXTINF:-1 group-title="PRIVADO" tvg-id="456841" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png",驚豔台
+#EXTINF:-1 group-title="PRIVADO",惊艳台
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/85
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456838" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/pandora_perfect.png",潘朵啦玩美台
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/86
-#EXTINF:-1 group-title="PRIVADO",惊艳台
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456841" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png",驚豔台
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/87
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456834" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee1.png",松視1台
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/88
@@ -33,11 +39,11 @@ http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/117
 
 #EXTINF:-1 group-title="PRIVADO" tvg-id="" tvg-logo="",香蕉台(125)
 http://125.227.210.55:1009/VideoInput/play.ts
-#EXTINF:-1 group-title="PRIVADO" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視2台(125)
+#EXTINF:-1 group-title="PRIVADO" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視1台(125)
 http://125.227.210.55:1022/VideoInput/play.ts
-#EXTINF:-1 group-title="PRIVADO" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視3台(125)
+#EXTINF:-1 group-title="PRIVADO" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視2台(125)
 http://125.227.210.55:1023/VideoInput/play.ts
-#EXTINF:-1 group-title="PRIVADO" tvg-id="" tvg-logo="",驚豔台(125)
+#EXTINF:-1 group-title="PRIVADO" tvg-id="" tvg-logo="",惊艳台(125)
 http://125.227.210.55:3016/VideoInput/play.ts
 #EXTINF:-1 group-title="PRIVADO" tvg-logo="",Sex girl(125)
 http://125.227.210.55:3031/VideoInput/play.ts
@@ -51,37 +57,37 @@ https://edge19.vedge.infomaniak.com/livecast/ik:rougetv/manifest.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-logo="https://www.tvbrowser.org/data/uploads/icons/3489946438aebffec54b07efa9287559.png",DMF
 https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/chunks.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="426102" tvg-logo="http://epg.one/img2/3249.png",Playboy LA
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6280/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6280/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="2014" tvg-logo="http://cdn.epg.one/img2/2014.png",Playboy
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12135/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12135/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3211" tvg-logo="http://epg.one/img2/3211.png",Playboy Plus
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6242/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6242/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="426158" tvg-logo="http://epg.one/img2/3251.png",Sexy Hot
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6282/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6282/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="426016" tvg-logo="http://epg.one/img2/3253.png",Venus
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6284/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6284/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="76642" tvg-logo="http://cdn.epg.one/img2/7743.png",Beate Uhse TV
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12163/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12163/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="491017" tvg-logo="https://epg.iptvx.one/picons/bcu-charm.png",BCU Charm HD
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/18053/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/18053/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="6926" tvg-logo="https://epg.iptvx.one/picons/brazzers.png",Brazzers TV Europe
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12113/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12113/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="6814" tvg-logo="https://epg.iptvx.one/picons/blue-hustler.png",Blue Hustler
-http://cdn-user.com:80/JosemarOliveira/24jos999064802/139222
+
 #EXTINF:-1 group-title="ADULTO" tvg-id="7556" tvg-logo="https://epg.iptvx.one/picons/hustler-hd.png",Hustler HD
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/244/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/244/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="6875" tvg-logo="https://epg.iptvx.one/picons/babes-tv.png",Babes TV
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6172/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6172/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7461" tvg-logo="https://epg.iptvx.one/picons/dorcel.png",Dorcel TV
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/245/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/245/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="6222" tvg-logo="https://epg.iptvx.one/picons/dorcel-xxx.png",Dorcel XXX
-http://neopneojh.top:8080/7781759064930352/c5d40cbdf4d5/73871
+
 #EXTINF:-1 group-title="ADULTO" tvg-id="6930" tvg-logo="https://epg.iptvx.one/picons/erox-ua.png",Erox HD
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6296/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6296/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7767" tvg-logo="https://epg.iptvx.one/picons/eroxxxhd.png",Eroxxx HD
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/5015/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/5015/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="378700" tvg-logo="https://epg.iptvx.one/picons/exxxotica.png",Exxxotica
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/2397/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/2397/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="407686" tvg-logo="https://epg.iptvx.one/picons/eroluxe-anal.png",EroLuxe Anal
 http://u.vipl.one/high/ierw63qgf1/1685.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="407700" tvg-logo="https://epg.iptvx.one/picons/eroluxe-asian.png",EroLuxe Asian
@@ -161,283 +167,283 @@ http://u.vipl.one/high/ierw63qgf1/1705.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="" tvg-logo="https://epg.iptvx.one/picons/eroluxe-60fps.png",EroLuxe 60fps
 http://u.vipl.one/high/ierw63qgf1/1684.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="440975" tvg-logo="https://epg.iptvx.one/picons/eromania4k.png",Eromania 4K
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/10049/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/10049/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7039" tvg-logo="https://epg.iptvx.one/picons/extasy4k.png",Extasy 4K
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/5014/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/5014/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="6009" tvg-logo="https://epg.iptvx.one/picons/extasytv.png",Extasy TV
-http://ns2.138754.xyz:80/ege0343/mstfa12.v/402610
+
 #EXTINF:-1 group-title="ADULTO" tvg-id="390419" tvg-logo="https://epg.iptvx.one/picons/leo-tv-xxx.png",Leo TV
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6272/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6272/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="445905" tvg-logo="https://epg.iptvx.one/picons/liberty-erotika.png",Liberty Эротика
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/16069/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/16069/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="6777" tvg-logo="https://epg.iptvx.one/picons/russkaya-noch.png",Русская Ночь
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/2057/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/2057/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="539440" tvg-logo="https://epg.iptvx.one/picons/penthouse-gold.png",Penthouse Gold HD
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/5011/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/5011/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="418030" tvg-logo="https://epg.iptvx.one/picons/penthouse-quickies.png",Penthouse Reality TV
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/5013/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/5013/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7265" tvg-logo="https://epg.iptvx.one/picons/penthouse-hd.png",Penthouse Passion HD
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/5010/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/5010/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="41290" tvg-logo="https://epg.iptvx.one/picons/private-tv.png",Private TV
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/243/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/243/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="6597" tvg-logo="https://epg.iptvx.one/picons/redlight-hd.png",Redlight HD
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/242/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/242/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="390425" tvg-logo="https://epg.iptvx.one/picons/reality-kings.png",Reality Kings TV
-http://ns2.138754.xyz:80/ege0343/mstfa12.v/402574
+
 #EXTINF:-1 group-title="ADULTO" tvg-id="6472" tvg-logo="https://epg.iptvx.one/picons/redlips.png",Red Lips
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6271/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6271/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="6957" tvg-logo="https://epg.iptvx.one/picons/super-one.png",Super One HD
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6298/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6298/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7519" tvg-logo="https://epg.iptvx.one/picons/vivid-red.png",Vivid Red
-http://neopneojh.top:8080/7781759064930352/c5d40cbdf4d5/73818
+http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/158503
 #EXTINF:-1 group-title="ADULTO" tvg-id="123740" tvg-logo="https://epg.iptvx.one/picons/yosso-sexy.png",YOSSO TV SEXY
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/14176/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/14176/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="453367" tvg-logo="https://epg.iptvx.one/picons/passionxxx.png",PassionXXX
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/878/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/878/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="465019" tvg-logo="https://www.maxvisioncorp.com/wp-content/uploads/2019/12/Logo-Bang-U.svg",Bang U
-http://cdn-user.com:80/JosemarOliveira/24jos999064802/139225
+
 #EXTINF:-1 group-title="ADULTO" tvg-id="3170" tvg-logo="http://epg.one/img2/3170.png",Extasy HD
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/11051/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/11051/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="6321" tvg-logo="http://epg.one/img2/6321.png",Tviksel Кино 18+ HD
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/18075/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/18075/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3246" tvg-logo="http://epg.one/img2/3246.png",Hot Pleasure
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6277/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6277/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3250" tvg-logo="http://epg.one/img2/3250.png",Red XXX
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6281/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6281/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="4788" tvg-logo="http://epg.one/img2/4788.png",OX-AX HD
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/11068/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/11068/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3239" tvg-logo="http://cdn.epg.one/img2/3239.png",Balkan Erotic
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6270/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6270/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="4932" tvg-logo="http://cdn.epg.one/img2/4932.png",Meiden van Holland
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12125/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12125/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3255" tvg-logo="http://epg.one/img2/3255.png",XY Max
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6286/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6286/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3256" tvg-logo="http://epg.one/img2/3256.png",XY Mix
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6287/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6287/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3257" tvg-logo="http://epg.one/img2/3257.png",XY Plus
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6288/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6288/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dusk-tv-nl.svg",Dusk
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12129/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12129/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-logo="https://secretcircle.com/sc_logo_trans.png",Secret Circle
-http://neopneojh.top:8080/7781759064930352/c5d40cbdf4d5/73887
+http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/158572
 #EXTINF:-1 group-title="ADULTO" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/cento-x-cento-tv-logo.png",CentoXCento TV
-http://neopneojh.top:8080/7781759064930352/c5d40cbdf4d5/74005
+http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/158690
 #EXTINF:-1 group-title="ADULTO" tvg-logo="https://sat.nov.ru/images/pinko_tv.png",Pinko Club TV
-http://ns2.138754.xyz:80/ege0343/mstfa12.v/402618
+
 #EXTINF:-1 group-title="ADULTO" tvg-logo="http://epg.one/img2/3244.png",Hot
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6275/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6275/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="4913" tvg-logo="http://epg.one/img2/4913.png",Alba XXX HD1
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12204/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12204/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7759" tvg-logo="http://epg.one/img2/7759.png",Alba XXX HD2
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12194/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12194/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="4948" tvg-logo="http://epg.one/img2/4948.png",Veraporn Group Sex
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12141/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12141/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="4949" tvg-logo="http://epg.one/img2/4949.png",Veraporn Group Sex 2
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12142/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12142/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7251" tvg-logo="http://epg.one/img2/7251.png",CineMan ExExEx
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/20089/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/20089/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7252" tvg-logo="http://epg.one/img2/7252.png",CineMan ExExEx TWO
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/20090/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/20090/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="" tvg-logo="",
 
 #EXTINF:-1 group-title="ADULTO" tvg-id="" tvg-logo="",
 
 #EXTINF:-1 group-title="ADULTO" tvg-id="3133" tvg-logo="http://epg.one/img2/3133.png",21 Sextury
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12205/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12205/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7725" tvg-logo="http://epg.one/img2/7725.png",DP Fanatics
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12111/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12111/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7749" tvg-logo="http://epg.one/img2/7749.png",Asshole Fever
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12169/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12169/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7752" tvg-logo="http://epg.one/img2/7752.png",Anal Teen Angels
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12183/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12183/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3135" tvg-logo="http://epg.one/img2/3135.png",Adult Time
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6166/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6166/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3137" tvg-logo="http://epg.one/img2/3137.png",Analized
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6168/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6168/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7751" tvg-logo="http://epg.one/img2/7751.png",Anal Time
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12181/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12181/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7753" tvg-logo="http://epg.one/img2/7753.png",Anal Only
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12184/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12184/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7754" tvg-logo="http://epg.one/img2/7754.png",Anal Mom
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12189/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12189/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7755" tvg-logo="http://epg.one/img2/7755.png",Anal 4K
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12190/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12190/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7756" tvg-logo="http://epg.one/img2/7756.png",Amateur Boxxx
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12191/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12191/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7757" tvg-logo="http://epg.one/img2/7757.png",All Anal
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12192/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12192/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7758" tvg-logo="http://epg.one/img2/7758.png",Alex Legend
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12193/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12193/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3151" tvg-logo="http://epg.one/img2/3151.png",Brazzers
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6182/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6182/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3150" tvg-logo="http://epg.one/img2/3150.png",Brazzers eXXtra
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6181/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6181/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3161" tvg-logo="http://epg.one/img2/3161.png",Day with a Pornstar
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6192/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6192/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3191" tvg-logo="http://epg.one/img2/3191.png",Hot and Mean
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6222/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6222/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7727" tvg-logo="http://epg.one/img2/7727.png",Dirty Masseur
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12128/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12128/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3142" tvg-logo="http://epg.one/img2/3142.png",Bang Bros
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6173/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6173/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3204" tvg-logo="http://epg.one/img2/3204.png",Monsters of Cock
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6235/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6235/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7746" tvg-logo="http://epg.one/img2/7746.png",Bang POV
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12166/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12166/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7747" tvg-logo="http://epg.one/img2/7747.png",Bang Bus
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12167/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12167/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7750" tvg-logo="http://epg.one/img2/7750.png",Ass Parade
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12178/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12178/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3140" tvg-logo="http://epg.one/img2/3140.png",Babes
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6172/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6172/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3143" tvg-logo="http://epg.one/img2/3143.png",Bang!
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6174/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6174/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3147" tvg-logo="http://epg.one/img2/3147.png",Blacked
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6178/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6178/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7741" tvg-logo="http://epg.one/img2/7741.png",Bratty Sis
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12161/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12161/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7742" tvg-logo="http://epg.one/img2/7742.png",Brand New Amateurs
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12162/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12162/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7744" tvg-logo="http://epg.one/img2/7744.png",BBC Pie
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12164/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12164/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7748" tvg-logo="http://epg.one/img2/7748.png",Banana Fever
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12168/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12168/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3154" tvg-logo="http://epg.one/img2/3154.png",Cherry Pimps
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6185/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6185/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3155" tvg-logo="http://epg.one/img2/3155.png",Club Sweethearts
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6186/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6186/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3158" tvg-logo="http://epg.one/img2/3158.png",Cum Louder
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6189/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6189/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7738" tvg-logo="http://epg.one/img2/7738.png",Cum4k
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6190/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6190/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7738" tvg-logo="http://epg.one/img2/7738.png",Cum4k
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12157/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12157/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7739" tvg-logo="http://epg.one/img2/7739.png",Cum Perfection
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12158/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12158/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3163" tvg-logo="http://epg.one/img2/3163.png",DDF Network
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6194/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6194/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3162" tvg-logo="http://epg.one/img2/3162.png",DDF Busty
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6193/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6193/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3186" tvg-logo="http://epg.one/img2/3186.png",DDF Hands on Hardcore
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6217/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6217/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7722" tvg-logo="http://epg.one/img2/7722.png",Euro Girls On Girls
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12108/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12108/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3164" tvg-logo="http://epg.one/img2/3164.png",Digital Desire
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6195/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6195/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3165" tvg-logo="http://epg.one/img2/3165.png",Digital Playground
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6196/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6196/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3166" tvg-logo="http://epg.one/img2/3166.png",Dorcel Club
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6197/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6197/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7729" tvg-logo="http://epg.one/img2/7729.png",Dirty Flix
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12130/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12130/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7730" tvg-logo="http://epg.one/img2/7730.png",Deepthroat Sirens
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12138/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12138/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7731" tvg-logo="http://epg.one/img2/7731.png",Deep Lush
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12139/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12139/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7732" tvg-logo="http://epg.one/img2/7732.png",Dark X
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12140/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12140/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7733" tvg-logo="http://epg.one/img2/7733.png",Dane Jones
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12143/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12143/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7734" tvg-logo="http://epg.one/img2/7734.png",Dancing Bear
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12144/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12144/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7735" tvg-logo="http://epg.one/img2/7735.png",Dad Crush
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12154/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12154/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="9703" tvg-logo="http://epg.one/img2/9703.png",Devils Film
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12137/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12137/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3168" tvg-logo="http://epg.one/img2/3168.png",Evil Angel
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6199/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6199/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3169" tvg-logo="http://epg.one/img2/3169.png",Evolved Fights
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6200/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6200/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7721" tvg-logo="http://epg.one/img2/7721.png",Exotic4k
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12107/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12107/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7723" tvg-logo="http://epg.one/img2/7723.png",Erotica X
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12109/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12109/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7724" tvg-logo="http://epg.one/img2/7724.png",Erotic Spice
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12110/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12110/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3171" tvg-logo="http://epg.one/img2/3171.png",Fake Taxi
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6202/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6202/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3181" tvg-logo="http://epg.one/img2/3181.png",FemJoy
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6212/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6212/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7736" tvg-logo="http://epg.one/img2/7736.png",Family Swap XXX
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12155/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12155/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7737" tvg-logo="http://epg.one/img2/7737.png",Family Strokes
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12156/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12156/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3187" tvg-logo="http://epg.one/img2/3187.png",Hard X
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6218/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6218/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3189" tvg-logo="http://epg.one/img2/3189.png",Hitzefrei
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6220/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6220/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3190" tvg-logo="http://epg.one/img2/3190.png",Holed
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6221/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6221/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3192" tvg-logo="http://epg.one/img2/3192.png",Hot Guys Fuck
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6223/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6223/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="4994" tvg-logo="http://epg.one/img2/4994.png",Hot Wife XXX
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12187/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12187/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3194" tvg-logo="http://epg.one/img2/3194.png",Japan HDV
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6225/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6225/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3196" tvg-logo="http://epg.one/img2/3196.png",Lesbea
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6227/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6227/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3198" tvg-logo="http://epg.one/img2/3198.png",Lethal Hardcore
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6229/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6229/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3199" tvg-logo="http://epg.one/img2/3199.png",Little Asians
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6230/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6230/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3201" tvg-logo="http://epg.one/img2/3201.png",Lust Cinema
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6232/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6232/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3205" tvg-logo="http://epg.one/img2/3205.png",MYLF
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6236/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6236/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3185" tvg-logo="http://epg.one/img2/3185.png",Got MYLF
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6216/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6216/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3202" tvg-logo="http://epg.one/img2/3202.png",MetArt
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6233/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6233/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3202" tvg-logo="http://epg.one/img2/3202.png",MetArt
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12160/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12160/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3206" tvg-logo="http://epg.one/img2/3206.png",Naughty America
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6237/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6237/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7726" tvg-logo="http://epg.one/img2/7726.png",Dirty Wives Club
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12122/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12122/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3207" tvg-logo="http://epg.one/img2/3207.png",Nubiles
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6238/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6238/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3214" tvg-logo="http://epg.one/img2/3214.png",Private
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6245/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6245/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3215" tvg-logo="http://epg.one/img2/3215.png",Public Agent
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6246/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6246/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3216" tvg-logo="http://epg.one/img2/3216.png",Reality Kings
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6247/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6247/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3217" tvg-logo="http://epg.one/img2/3217.png",RK Prime
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6248/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6248/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3218" tvg-logo="http://epg.one/img2/3218.png",RK TV
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6249/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6249/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3235" tvg-logo="http://epg.one/img2/3235.png",We Live Together
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6266/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6266/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3222" tvg-logo="http://epg.one/img2/3222.png",SexArt
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6165/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6165/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3222" tvg-logo="http://epg.one/img2/3222.png",SexArt
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6253/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6253/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3221" tvg-logo="http://epg.one/img2/3221.png",Sex With Muslims
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6252/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6252/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3224" tvg-logo="http://epg.one/img2/3224.png",SINematica
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6255/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6255/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3227" tvg-logo="http://epg.one/img2/3227.png",Tiny 4K
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6258/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6258/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3229" tvg-logo="http://epg.one/img2/3229.png",True Amateurs
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6260/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6260/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3230" tvg-logo="http://epg.one/img2/3230.png",Tushy
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6261/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6261/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3230" tvg-logo="http://epg.one/img2/3230.png",Tushy
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12188/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12188/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3231" tvg-logo="http://epg.one/img2/3231.png",Tushy Raw
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6262/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6262/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3234" tvg-logo="http://epg.one/img2/3234.png",Vixen
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6265/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6265/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3236" tvg-logo="http://epg.one/img2/3236.png",White Boxxx
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6267/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6267/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3237" tvg-logo="http://epg.one/img2/3237.png",Wicked
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6268/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6268/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-logo="https://static.pornhat.com/contents/dvds/groups/634/c1_mik.jpg",XXX MIA KHALIFA
-http://neopneojh.top:8080/7781759064930352/c5d40cbdf4d5/73860
+
 #EXTINF:-1 group-title="ADULTO" tvg-logo="https://www.eachporn.com/contents/dvds/566/cf1_Sweetie%20Fox.jpg",XXX SweetieFox
 http://conecdg.me:80/Andrielly.Silva/Br131221/3932771
 #EXTINF:-1 group-title="ADULTO" tvg-logo="https://static.pornhat.com/contents/dvds/groups/7/c1_s1_21-sextury.jpg",XXX 21 SEXTURY
-http://neopneojh.top:8080/7781759064930352/c5d40cbdf4d5/73891
+
 #EXTINF:-1 group-title="ADULTO" tvg-logo="https://legalporn0.com/templates/legalporno/images/logo.png",XXX LEGALPORNO
 http://conecdg.me:80/Andrielly.Silva/Br131221/3933287
 #EXTINF:-1 group-title="ADULTO" tvg-logo="https://legalporn0.com/templates/legalporno/images/logo.png",XXX LEGALPORNO 2
@@ -457,7 +463,7 @@ http://conecdg.me:80/Andrielly.Silva/Br131221/3935071
 #EXTINF:-1 group-title="ADULTO" tvg-logo="https://www.pornxpert.com/contents/content_sources/28/s2_sis-loves-me.jpg",XXX SIS LOVES ME
 http://conecdg.me:80/Andrielly.Silva/Br131221/3935072
 #EXTINF:-1 group-title="ADULTO" tvg-logo="https://static.pornhat.com/contents/dvds/groups/34/c1_bang-bros.jpg",XXX BANGBROS
-http://neopneojh.top:8080/7781759064930352/c5d40cbdf4d5/73867
+
 #EXTINF:-1 group-title="ADULTO" tvg-logo="https://pbcdn.tv/kartinki-kanalov/kanal-b-20-brazzers.jpg",XXX BRAZZERS 1
 http://conecdg.me:80/Andrielly.Silva/Br131221/3954314
 #EXTINF:-1 group-title="ADULTO" tvg-logo="https://pbcdn.tv/kartinki-kanalov/kanal-b-20-brazzers.jpg",XXX BRAZZERS 2
@@ -477,7 +483,7 @@ http://conecdg.me:80/Andrielly.Silva/Br131221/3965387
 #EXTINF:-1 group-title="ADULTO" tvg-logo="https://static.pornhat.com/contents/dvds/groups/99/c1_s1_fake-taxi.jpg",XXX Fake Taxi
 http://conecdg.me:80/Andrielly.Silva/Br131221/3965388
 #EXTINF:-1 group-title="ADULTO" tvg-logo="https://static.pornhat.com/contents/dvds/groups/207/c1_s1_public-agent.jpg",XXX Public Agent
-http://neopneojh.top:8080/7781759064930352/c5d40cbdf4d5/73855
+
 #EXTINF:-1 group-title="ADULTO" tvg-logo="https://pbcdn.tv/kartinki-kanalov/kanal-b-fake-hospital.jpg",XXX Fake Hospital
 http://conecdg.me:80/Andrielly.Silva/Br131221/3965390
 #EXTINF:-1 group-title="ADULTO" tvg-logo="https://static.pornhat.com/contents/dvds/groups/96/c1_s1_fake-driving-school.jpg",XXX Fake Driving School
@@ -491,61 +497,61 @@ http://conecdg.me:80/Andrielly.Silva/Br131221/3965464
 #EXTINF:-1 group-title="ADULTO" tvg-logo="",
 
 #EXTINF:-1 group-title="ADULTO" tvg-id="425988" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/rxpvwp1436844866.png",Sextreme
-http://cdn-user.com:80/JosemarOliveira/24jos999064802/36150
+
 #EXTINF:-1 group-title="ADULTO" tvg-id="6126" tvg-logo="https://epg.iptvx.one/picons/playboy-tv.png",Playboy TV
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/527/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/527/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="402082" tvg-logo="https://epg.iptvx.one/picons/blue-hustler.png",Blue Hustler
-http://neopneojh.top:8080/7781759064930352/c5d40cbdf4d5/73869
+http://31.43.191.125:8080/JkLSFzavCXNW/EdTWE3FK8Nnz/158502
 #EXTINF:-1 group-title="ADULTO" tvg-id="5956" tvg-logo="https://epg.iptvx.one/picons/brazzers.png",Brazzers TV Europe Россия
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/910/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/910/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="6704" tvg-logo="https://epg.iptvx.one/picons/hustler-tv.png",Hustler TV
-http://ns2.138754.xyz:80/ege0343/mstfa12.v/402575
+
 #EXTINF:-1 group-title="ADULTO" tvg-id="451376" tvg-logo="https://epg.iptvx.one/picons/vivid-tv.png",Vivid TV Europe
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6264/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6264/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="6352" tvg-logo="https://epg.iptvx.one/picons/vivid-touch.png",Vivid Touch
-http://neopneojh.top:8080/7781759064930352/c5d40cbdf4d5/73890
+
 #EXTINF:-1 group-title="ADULTO" tvg-id="7011" tvg-logo="https://epg.iptvx.one/picons/barely-legal.png",Barely Legal TV
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/871/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/871/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="451197" tvg-logo="https://epg.iptvx.one/picons/xxl-xxx.png",XXL
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/5009/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/5009/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-logo="https://cdn.mitvstatic.com/channels/br_sexprive-brasileirinhas_m.png",Sex Prive
-http://91.218.50.136:8080/Rose35torres/iB7101/2298
+
 #EXTINF:-1 group-title="ADULTO" tvg-logo="https://wnetmedia.net/wp-content/uploads/2022/10/Adultauto1.jpg",Adult 1
-http://cdn4k.cc:80/JosemarOliveira/24jos999064802/139232
+
 #EXTINF:-1 group-title="ADULTO" tvg-logo="https://wnetmedia.net/wp-content/uploads/2022/10/Adultauto2.jpg",Adult 2
-http://ns2.138754.xyz:80/ege0343/mstfa12.v/402627
+
 #EXTINF:-1 group-title="ADULTO" tvg-logo="https://wnetmedia.net/wp-content/uploads/2022/10/Adultauto3.jpg",Adult 3
-http://ns2.138754.xyz:80/ege0343/mstfa12.v/402628
+
 #EXTINF:-1 group-title="ADULTO" tvg-logo="https://wnetmedia.net/wp-content/uploads/2022/10/Adultauto4.jpg",Adult 4
-http://ns2.138754.xyz:80/ege0343/mstfa12.v/402629
+
 #EXTINF:-1 group-title="ADULTO" tvg-logo="https://wnetmedia.net/wp-content/uploads/2022/10/Adultauto5.jpg",Adult 5
-http://ns2.138754.xyz:80/ege0343/mstfa12.v/402630
+
 #EXTINF:-1 group-title="ADULTO" tvg-logo="https://wnetmedia.net/wp-content/uploads/2022/10/Adultauto6.jpg",Adult 6
-http://ns2.138754.xyz:80/ege0343/mstfa12.v/402631
+
 #EXTINF:-1 group-title="ADULTO" tvg-logo="https://wnetmedia.net/wp-content/uploads/2022/10/Adultauto7.jpg",Adult 7
-http://ns2.138754.xyz:80/ege0343/mstfa12.v/402632
+
 #EXTINF:-1 group-title="ADULTO" tvg-id="446068" tvg-logo="http://epg.one/img2/4953.png",Pink Erotic 1
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12146/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12146/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="446069" tvg-logo="http://epg.one/img2/4954.png",Pink Erotic 2
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12147/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12147/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="446095" tvg-logo="http://epg.one/img2/4955.png",Pink Erotic 3
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12148/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12148/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="446066" tvg-logo="http://epg.one/img2/4956.png",Pink Erotic 4
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12149/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12149/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="4957" tvg-logo="http://epg.one/img2/4957.png",Pink Erotic 5
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12150/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12150/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="4958" tvg-logo="http://epg.one/img2/4958.png",Pink Erotic 6
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12151/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12151/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="4959" tvg-logo="http://epg.one/img2/4959.png",Pink Erotic 7
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12152/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12152/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="4960" tvg-logo="http://epg.one/img2/4960.png",Pink Erotic 8
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12153/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12153/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="2526" tvg-logo="http://epg.one/img2/2526.png",French Lover
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12124/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12124/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="4943" tvg-logo="http://cdn.epg.one/img2/4943.png",Passie XXX
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12136/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/12136/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="4787" tvg-logo="http://epg.one/img2/4787.png",KinoXXX
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/11052/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/11052/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-logo="",
 
 #EXTINF:-1 group-title="ADULTO" tvg-logo="",
@@ -651,6 +657,8 @@ https://t33.cdn2020.com/video/m3u8/2021/03/22/765275bf/index.m3u8
 
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="",XJX-0
 
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://20261106.aqsmimg4675.sbs:9001/202611/44/06ae889d54748383e59c4aa9352d1644.jpg",XJX-0867.淫女爱车震.猛吃鸡巴白虎穴求大屌插入
+https://8u3m21v1.krwwy.com/20261101/RxFulhWD/12285kb/hls/index.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://20261105.aqsmimg4667.sbs:9001/202611/24/26ae888a6cd32a22c37f7276181bf724.jpg",XJX-0866.淫穴女秘书.黑丝女秘书陪老板出差在酒店淫乱性交
 https://8u3m21v1.krwwy.com/20261101/1qHZhfiS/12301kb/hls/index.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://20261104.aqsmimg4657.sbs:9001/202611/68/56ae886649bd93438fc164046e9c7e68.jpg",XJX-0865.败德女老师.浑身香汗湿透被学生的精液灌满淫穴
@@ -2159,7 +2167,7 @@ https://6m7d.cdnedge.live/file/avple-images/hls/62246d56c6370a74fa39c70c/playlis
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220307/2_030FP4356318.jpg",TWAV003 深爱我的巨乳妻子在后座无限呻吟
 https://8bb88.cdnedge.live/file/avple-images/hls/62246d92c6370a74fa39c70d/playlist.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://av6k.com/uploads/allimg/220307/2_030FP5105925.jpg",TWAV004 满员捷运闺蜜面前被捷运痴汉中出 孟若羽
-https://f125c.cdnedge.live/file/avple-images/hls/62246e0ac6370a74fa39c70e/playlist.m3u8
+https://c4m6s.cdnedge.live/file/avple-images/hls/62246e0ac6370a74fa39c70e/playlist.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn.furuke.com/img/sub-project-c/23/c0/c03d09905efa40ee94e939f0cc7230fa657c4704.jpg",TWAV005 古惑仔之轮爆淫荡小结巴 仙儿媛
 https://je40u1.cdnedge.live/file/avple-asserts/hls/68f6e249d2acae4fabec1d8f/playlist.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://sexuria.net/uploads/posts/2022-12/1671562317_sexuria.net_qvoscpf5_t.jpg",TWAV006 强上傲娇女上司 苡若
@@ -2808,9 +2816,9 @@ https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/XB/3000/output.
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn.furuke.com/img/sub-project-c/25/97/97128411f20144469ce651eaef729d076891a7d9.jpg",IFH0114 Stacey 打野x台灣溫泉女子
 https://hsm3.fhu3hh.com/20251020/8Nt5FXcg/2000kb/hls/index.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn.furuke.com/img/sub-project-c/25/cc/cc63ce44af384afabc81caa08522cf3b6891b241.jpg",IFH0127 Rita 鮮奶妹 打野x台灣溫泉女子
-https://bytt.jb-aiwei.cc/contents/videos/87000/87777/index.m3u8
+https://rd1921.cdnedge.live/file/avple-asserts/hls/6765762e071441517d5a8b91/playlist.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn.furuke.com/img/sub-project-c/25/b6/b62461d525ad4ca89131232352bb6dfc6891a3f4.jpg",IFH0170 艾莉莎 打野x台灣溫泉女子
-https://bytt.jb-aiwei.cc/contents/videos/87000/87817/index.m3u8
+https://ta6us1.cdnedge.live/file/avple-asserts/hls/676573d6071441517d5a8b8e/playlist.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn.furuke.com/img/sub-project-c/25/9b/9bb124e2b9b5467182a45d55b62f3e8868918fe4.jpg",IFH0176 凌泫 打野x台灣溫泉女子
 https://ja34l1.cdnedge.live/file/avple-asserts/hls/676573d6071441517d5a8b8f/playlist.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn.furuke.com/img/sub-project-c/25/91/91ad0e5437524cd1a4fd26f44c8c8a396891bdd5.jpg",IFH0103 Mia 打野x台灣溫泉女子
@@ -3348,7 +3356,7 @@ https://cdn.uameta.ai/file/bucket-media/video/su2026082602/video.m3u8
 #EXTINF:-1 group-title="UNCENSORED" tvg-logo="https://www.heyzo.com/contents/3000/3948/images/player_thumbnail.jpg",HEYZO-3948 嘘のモデルバイト募集でヤラれちゃった - りく
 https://v.hersav.me/b8c818497ce50d32166063f3ec7c0303/b8c818497ce50d32166063f3ec7c0303.m3u8
 #EXTINF:-1 group-title="UNCENSORED" tvg-logo="https://www.heyzo.com/contents/3000/3962/images/player_thumbnail.jpg",HEYZO-3962 ブロンド美少女の身体をたっぷり弄ぶ JAPANESE STYLE MASSAGE AYDA SWINGER - アイ
-https://s55.hlsvideo.uk/stream/VsoxAU9wzPcram28j1QjnQ/kjhhiuahiuhgihdf/1788522439/74295419/index-f2-v1-a1.m3u8
+https://avbox.mov/stream.php?v=8505864e-ba88-419c-816d-57202853ebbc&p=720p%2Fvideo.m3u8
 #EXTINF:-1 group-title="UNCENSORED" tvg-logo="https://www.heyzo.com/contents/3000/3963/images/player_thumbnail.jpg",HEYZO-3963 GIRLS&BOUGA　21歳ガールズバー店員のGALさんがおじさま系SNSで出会いを求めて来まし - 舞
 https://v.hersav.me/5bfc4a7f018fd773477a146956bc7819/5bfc4a7f018fd773477a146956bc7819.m3u8
 #EXTINF:-1 group-title="UNCENSORED" tvg-logo="https://www.heyzo.com/contents/3000/3964/images/player_thumbnail.jpg",HEYZO-3964 アナル初体験！クチ・マンコ・アナル・三穴中出し！ - ボーイッシュＧちゃん
@@ -5557,7 +5565,7 @@ https://video-6.ggjav.com/video_1/118869-101723-001.mp4/index.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="",
 
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.caribbeancom.com/moviepages/110426-001/images/l_l.jpg",110426-001 水曜日のカリビアンコム『男好きな性的フッ軽のAV女優の友達もフッ軽が多い説』 石崎れいな
-
+https://avbox.mov/stream.php?v=38d3cc15-2721-43ad-80b2-b63478fe3fdb&p=720p%2Fvideo.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.caribbeancom.com/moviepages/102726-001/images/l_l.jpg",102726-001 水曜日のカリビアンコム 『カバンの中身がゴミだらけな女はいとも簡単にヤレる説』 南原みさき
 https://avbox.mov/stream.php?v=c8e87a83-5fe4-4ae6-b80e-afcda3ac2274&p=720p%2Fvideo.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.caribbeancom.com/moviepages/102326-001/images/l_l.jpg",102326-001 水曜日のカリビアンコム『彼氏がいないのにコンドームを携帯している女優は簡単にヤレる説』 本多まい
@@ -7072,6 +7080,8 @@ https://cdnasa1.cdnamz.me/playlists/63d4a4ad-b794-48b7-94a8-cd11b6987905/u8lmahq
 https://cdnasa1.cdnamz.me/playlists/0d263deb-1702-4956-b8b9-2953506cb731/u8lmahqjne.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="",
 
+#EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.caribbeancom.com/moviepages/110626-001/images/l_l.jpg",110626-001 怒涛の連続挿入180分 ~ピンコ立ちの勃起乳首がエロ過ぎる美魔女~ 前編 星野あいか
+
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.caribbeancom.com/moviepages/101326-001/images/l_l.jpg",101326-001 怒涛の連続挿入180分 ~スタイル抜群な美女に迫りくる５本の肉棒を成敗~ 前編 桜井ひな
 https://player.upn.one/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/-gcvS1sbyHTvIVu2-7U2uw/nc9/lodt99e8/kfp9gw/tt/index-f1-v1-a1.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.caribbeancom.com/moviepages/091126-001/images/l_l.jpg",091126-001 怒涛の連続挿入180分 ~スレンダーエロティック美女の子宮まで届く大量精子注入！~ 前編 夏目りんか
@@ -7547,17 +7557,17 @@ https://avbox.mov/stream.php?v=fdd276de-6eab-472e-9a92-feee2ee21180&p=1280x720%2
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.caribbeancom.com/moviepages/101320-001/images/l_l.jpg",101320-001 祈里きすみを手懐ける ～頭の先からびらびらの先まで世話してやりますよ～
 https://avbox.mov/stream.php?v=8d2ba481-8959-4a17-a322-962210ca1670&p=1280x720%2Fvideo.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.caribbeancom.com/moviepages/091920-001/images/l_l.jpg",091920-001 すみれ美香を手懐ける ～あなたの性処理犬になります～
-https://surrit.com/ba59a237-8e00-47c3-9dc5-603cd36d6afb/1280x720/video.m3u8
+https://avbox.mov/stream.php?v=ba59a237-8e00-47c3-9dc5-603cd36d6afb&p=1280x720%2Fvideo.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.caribbeancom.com/moviepages/051020-001/images/l_l.jpg",051020-001 大久保ゆうを手懐ける ～いいなり娘の美マンに中出し三昧～
-https://surrit.com/1f2d8022-c987-4f8c-9ed5-73961e8e050a/1280x720/video.m3u8
+https://avbox.mov/stream.php?v=1f2d8022-c987-4f8c-9ed5-73961e8e050a&p=1280x720%2Fvideo.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.caribbeancom.com/moviepages/041720-001/images/l_l.jpg",041720-001 小森みくろを手懐ける ～飼い主2人のちんぽを愛して止まない奴隷～
-https://surrit.com/1a54e4b4-6f41-4870-a801-b7a6712410fc/1280x720/video.m3u8
+https://avbox.mov/stream.php?v=1a54e4b4-6f41-4870-a801-b7a6712410fc&p=1280x720%2Fvideo.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.caribbeancom.com/moviepages/031220-001/images/l_l.jpg",031220-001 亜美を手懐ける ～スペインアナルも可愛がってやるからな～
-https://surrit.com/b42260b2-c7fc-4d70-b8ea-b3a01bae0dd7/1280x720/video.m3u8
+https://avbox.mov/stream.php?v=b42260b2-c7fc-4d70-b8ea-b3a01bae0dd7&p=1280x720%2Fvideo.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.caribbeancom.com/moviepages/020120-001/images/l_l.jpg",020120-001 佐々木優奈を手懐ける ～小顔で気品あふれる美白妻が土下座までして奴隷志願～
-https://surrit.com/e0d66d93-32e9-40cd-a9ed-453e9adf7323/1280x720/video.m3u8
+https://avbox.mov/stream.php?v=e0d66d93-32e9-40cd-a9ed-453e9adf7323&p=1280x720%2Fvideo.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.caribbeancom.com/moviepages/010820-001/images/l_l.jpg",010820-001 江波りゅうを手懐ける ～中出しを乞う淫乱性奴隷～
-https://surrit.com/c54d08ed-bd0b-45d9-ad72-28581cdf6d75/1280x720/video.m3u8
+https://avbox.mov/stream.php?v=c54d08ed-bd0b-45d9-ad72-28581cdf6d75&p=1280x720%2Fvideo.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.caribbeancom.com/moviepages/051719-921/images/l_l.jpg",051719-921 美月アンジェリアを手懐ける ～服従して責められて濡れる性奴隷生活～
 https://avbox.mov/stream.php?v=d44d50cc-1dcb-4c92-b2c6-b02e3e7550a3&p=1280x720%2Fvideo.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="",
@@ -7565,43 +7575,43 @@ https://avbox.mov/stream.php?v=d44d50cc-1dcb-4c92-b2c6-b02e3e7550a3&p=1280x720%2
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="",
 
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.caribbeancom.com/moviepages/032926-001/images/l_l.jpg",032926-001 いい大人の預かり所 ~淫語ささやきお姉さんがオッパイを吸わせて甘やかしてくれるじゃん~ 星野みき
-https://surrit.com/7e57998b-c14e-42e2-8c91-b16f013d0542/720p/video.m3u8
+https://avbox.mov/stream.php?v=7e57998b-c14e-42e2-8c91-b16f013d0542&p=720p%2Fvideo.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.caribbeancom.com/moviepages/101424-001/images/l_l.jpg",101424-001 いい大人の預かり所 ～好きなだけバブらせてくれるピンクカラー熟女～ 篠原なぎさ
-https://surrit.com/fe51952c-dcf4-414d-8547-7db54583941c/720p/video.m3u8
+https://avbox.mov/stream.php?v=fe51952c-dcf4-414d-8547-7db54583941c&p=720p%2Fvideo.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.caribbeancom.com/moviepages/010924-001/images/l_l.jpg",010924-001 いい大人の預かり所 ～いいにおいがするバブみ保育士に無限オギャる～ 村上ことの
-https://surrit.com/e03805fb-28bf-441e-a811-092e6b53de62/720p/video.m3u8
+https://avbox.mov/stream.php?v=e03805fb-28bf-441e-a811-092e6b53de62&p=720p%2Fvideo.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.caribbeancom.com/moviepages/022522-001/images/l_l.jpg",022522-001 いい大人の預かり所 ～Dカップおっぱいに包まれてバブちゃん幸せ～ 百多えみり
-https://surrit.com/47461cc7-2a03-40e7-85ca-55f806d784f1/1280x720/video.m3u8
+https://avbox.mov/stream.php?v=47461cc7-2a03-40e7-85ca-55f806d784f1&p=1280x720%2Fvideo.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.caribbeancom.com/moviepages/090421-001/images/l_l.jpg",090421-001 いい大人の預かり所 ～センセイのお胸が柔らかすぎてチュパチュパ吸いまくりSEX～ 折原ほのか
-https://surrit.com/12283965-eaea-4945-bc48-1e38043100a4/720p/video.m3u8
+https://avbox.mov/stream.php?v=12283965-eaea-4945-bc48-1e38043100a4&p=1080p%2Fvideo.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.caribbeancom.com/moviepages/112120-001/images/l_l.jpg",112120-001 いい大人の預かり所 ～二人の美巨乳保育士に包まれてバブみが抑えられない～ 小川桃果 櫻木梨乃
-https://surrit.com/2ff231f6-be3f-4414-ad07-6adafe3227f1/1280x720/video.m3u8
+https://avbox.mov/stream.php?v=2ff231f6-be3f-4414-ad07-6adafe3227f1&p=1280x720%2Fvideo.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.caribbeancom.com/moviepages/010819-833/images/l_l.jpg",010819-833 いい大人の預かり所 ～裸エプロンの保育士に癒される夢の託児所～ 桜瀬奈
-https://javxo.com/uploads/videos/transcoded/c7/8a/2c0aca4f-fb35-42e5-9f22-9b83fdaede37/hls/index.m3u8
+https://avbox.mov/stream.php?v=575384cc-684f-4e4c-89e6-334ea50f6206&p=1280x720%2Fvideo.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.caribbeancom.com/moviepages/052518-674/images/l_l.jpg",052518-674 いい大人の預かり所 ～泣きじゃくる男性を自慢の乳輪で黙らせる～ 杏奈りか
-https://javxo.com/uploads/videos/transcoded/73/fa/8559e01b-b4b1-4fee-a63a-e035a88578fc/hls/index.m3u8
+https://avbox.mov/stream.php?v=a392d88b-76f2-48c3-abd5-065b8677da47&p=1280x720%2Fvideo.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.caribbeancom.com/moviepages/050118-653/images/l_l.jpg",050118-653 いい大人の預かり所 ～黒髪が綺麗で清楚な保育士さんに癒されたい～ 大貫あずさ
-https://javxo.com/uploads/videos/transcoded/88/44/20fa826a-4322-403e-ac12-949c0201bb4a/hls/index.m3u8
+https://avbox.mov/stream.php?v=17671d61-915a-4691-a01d-aa9560d858fc&p=1280x720%2Fvideo.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="",
 
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="",
 
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.caribbeancom.com/moviepages/020826-001/images/l_l.jpg",020826-001 ロリコン専用ソープらんど15 中居絢音
-https://surrit.com/c4a4eb8e-09b3-4d77-8068-24a6ed3f3946/720p/video.m3u8
+https://avbox.mov/stream.php?v=c4a4eb8e-09b3-4d77-8068-24a6ed3f3946&p=720p%2Fvideo.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.caribbeancom.com/moviepages/050623-001/images/l_l.jpg",050623-001 ロリコン専用ソープらんど14 中野はるな
-https://surrit.com/213a266e-5ced-4cfd-901f-b9f92c08c6b4/720p/video.m3u8
+https://avbox.mov/stream.php?v=213a266e-5ced-4cfd-901f-b9f92c08c6b4&p=720p%2Fvideo.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.caribbeancom.com/moviepages/030522-001/images/l_l.jpg",030522-001 ロリコン専用ソープらんど13 瀬戸レイカ
-https://surrit.com/41ba3643-5e6d-4a8d-b72f-ebe253413e28/1280x720/video.m3u8
+https://avbox.mov/stream.php?v=41ba3643-5e6d-4a8d-b72f-ebe253413e28&p=1280x720%2Fvideo.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.caribbeancom.com/moviepages/062521-001/images/l_l.jpg",062521-001 ロリコン専用ソープらんど12 碧えみ
-https://surrit.com/6e6ccbf4-7cc7-4a54-8f2a-d5a2a37a6360/1280x720/video.m3u8
+https://avbox.mov/stream.php?v=6e6ccbf4-7cc7-4a54-8f2a-d5a2a37a6360&p=1280x720%2Fvideo.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.caribbeancom.com/moviepages/051521-001/images/l_l.jpg",051521-001 ロリコン専用ソープらんど11 春鳥みつき
-https://surrit.com/e7468960-926c-45cc-9fb4-8ba18673f470/1280x720/video.m3u8
+https://avbox.mov/stream.php?v=e7468960-926c-45cc-9fb4-8ba18673f470&p=1280x720%2Fvideo.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.caribbeancom.com/moviepages/022021-001/images/l_l.jpg",022021-001 ロリコン専用ソープらんど10 小池みのり
 https://surrit.com/60386b2d-5dd4-4d0e-b017-7f030a6c60e7/1280x720/video.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.caribbeancom.com/moviepages/072620-001/images/l_l.jpg",072620-001 ロリコン専用ソープらんど9 日向あん
 https://surrit.com/4c44cabb-0569-485c-a814-cd56af86016d/1280x720/video.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.caribbeancom.com/moviepages/052519-927/images/l_l.jpg",052519-927 ロリコン専用ソープらんど8 夏目なな
-https://javxo.com/uploads/videos/transcoded/d3/7f/6110bbaf-7c83-42b8-8753-54bacd2fb25e/hls/index.m3u8
+https://avbox.mov/stream.php?v=7240548e-514c-49ed-8577-e5d9ce8ace98&p=1280x720%2Fvideo.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.caribbeancom.com/moviepages/101318-772/images/l_l.jpg",101318-772 ロリコン専用ソープらんど7 マリン
 https://surrit.com/df5b3ad8-f43b-4390-bf91-a7376a1aa33d/1280x720/video.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.caribbeancom.com/moviepages/032817-403/images/l_l.jpg",032817-403 ロリコン専用ソープらんど6 一之瀬すず
@@ -17428,9 +17438,9 @@ https://vs46.userscontent.net/uls2/365/9477/680165a09e092327bf836c1ea4d0hd4b.mp4
 #EXTINF:-1 group-title="PORN" tvg-logo="https://tour-cdn.5kporn.com/episodes/24/poster_image/poster.jpg",[5KPorn] Daphne Dare (Dare To Be Sexy)
 
 #EXTINF:-1 group-title="PORN" tvg-logo="https://tour-cdn.5kporn.com/episodes/23/poster_image/poster_1.jpg",[5KPorn] Naomi Nash (Naomi Nash in 5K)
-
+https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/5kporn/5kp/22/output.m3u8
 #EXTINF:-1 group-title="PORN" tvg-logo="https://tour-cdn.5kporn.com/episodes/22/poster_image/poster2.jpg",[5KPorn] Lana Sharapova (Reluctant Russian)
-
+https://vs18.userscontent.net/uls2/179/1222/12289106e8a5a94941c554d7b677hd4b.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="PORN" tvg-logo="https://tour-cdn.5kporn.com/episodes/21/poster_image/poster.jpg",[5KPorn] Melody Marks (Marks in 5K!)
 https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/5kporn/5kp/20/output.m3u8
 #EXTINF:-1 group-title="PORN" tvg-logo="https://tour-cdn.5kporn.com/episodes/20/poster_image/poster_19.jpg",[5KPorn] Chloe Temple (Ultimate Temple Experience)
@@ -17796,13 +17806,13 @@ https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/film/All%20Natu
 
 【アニメ】
 #EXTINF:-1 group-title="ANIME" tvg-logo="https://www.caribbeancompr.com/moviepages/032317_015/images/l_l.jpg",催眠術ZERO kamma.1 「村越ゲーム」
-https://vip7.newljlj.com/20231225/cgnyWTIc/600kb/hls/index.m3u8
+https://bfikuncdn.com/20240606/i9yzBUAg/2000kb/hls/index.m3u8
 #EXTINF:-1 group-title="ANIME" tvg-logo="https://www.caribbeancompr.com/moviepages/032317_016/images/l_l.jpg",催眠術ZERO kamma.2 「村越学園」
-https://vip8.3sybf.com/20231225/Zued5QVG/600kb/hls/index.m3u8
+https://bfikuncdn.com/20240606/k5BXnqw9/2000kb/hls/index.m3u8
 #EXTINF:-1 group-title="ANIME" tvg-logo="https://www.caribbeancompr.com/moviepages/010119_001/images/l_l.jpg",痴漢のライセンス ＃1 どうして誰も助けてくれないの？
 https://v2025.ddcdnbf.com/20250330/BpOp3Ltk/2000kb/hls/index.m3u8
 #EXTINF:-1 group-title="ANIME" tvg-logo="https://www.caribbeancompr.com/moviepages/010819_001/images/l_l.jpg",痴漢のライセンス ＃2 私…もう戻れない…
-https://vip7.newljlj.com/20231130/0lyFdZ60/600kb/hls/index.m3u8
+https://bfikuncdn.com/20240606/z448Q5uR/2000kb/hls/index.m3u8
 #EXTINF:-1 group-title="ANIME" tvg-logo="https://www.caribbeancompr.com/moviepages/032317_006/images/l_l.jpg",学園anime:01 あんたって本当に最低の屑だわ！
 https://b.gg155gg1.com/20250610/eOJDJCxZ/2000kb/hls/index.m3u8
 #EXTINF:-1 group-title="ANIME" tvg-logo="https://www.caribbeancompr.com/moviepages/032317_007/images/l_l.jpg",学園anime:02 もうダメ、子宮に中出しされてイグゥ~
@@ -17814,7 +17824,7 @@ https://vip2.viii155.com/20241006/OwNUnJYs/2000kb/hls/index.m3u8
 #EXTINF:-1 group-title="ANIME" tvg-logo="https://www.caribbeancompr.com/moviepages/102816_014/images/l_l.jpg",アキバ系彼女 さーくる2
 https://vip5.3sybf.com/20210525/pDScEUbJ/2000kb/hls/index.m3u8
 #EXTINF:-1 group-title="ANIME" tvg-logo="https://www.caribbeancompr.com/moviepages/102816_015/images/l_l.jpg",アキバ系彼女 さーくる3
-https://jkunnzyx.com/20250120/UJH29Bxy/2000kb/hls/index.m3u8
+https://bfjkuncdn.com/20240331/5YVGsfts/2000kb/hls/index.m3u8
 #EXTINF:-1 group-title="ANIME" tvg-logo="https://www.caribbeancompr.com/moviepages/102816_008/images/l_l.jpg",特別授業 3SLG THE ANIMATION
 https://b.gg155gg2.com/20241002/mJC84fXT/2000kb/hls/index.m3u8
 #EXTINF:-1 group-title="ANIME" tvg-logo="https://www.caribbeancompr.com/moviepages/102816_007/images/l_l.jpg",特別授業 3SLG THE ANIMATION EXTEND
@@ -17838,30 +17848,27 @@ https://vip1.bf155bf.com/20220819/9ZT5FFpJ/800kb/hls/index.m3u8
 #EXTINF:-1 group-title="ANIME" tvg-logo="https://www.caribbeancompr.com/moviepages/060717_001/images/l_l.jpg",姫騎士オリヴィア 調教：2
 https://dadi-bo.com/20181221/mi0GVztv/800kb/hls/index.m3u8
 #EXTINF:-1 group-title="ANIME" tvg-logo="https://www.caribbeancompr.com/moviepages/100517_004/images/l_l.jpg",Sweet Home ~Hなお姉さんは好きですか？~ 一甘
-
+https://vip1.bf155bf.com/20240912/0wsyNNkD/2000kb/hls/index.m3u8
 #EXTINF:-1 group-title="ANIME" tvg-logo="https://www.caribbeancompr.com/moviepages/100517_005/images/l_l.jpg",Sweet Home ~Hなお姉さんは好きですか？~ 二甘
-
+https://vip4.ddyunbo.com/20240912/DEbN2DcK/2000kb/hls/index.m3u8
 #EXTINF:-1 group-title="ANIME" tvg-logo="https://www.caribbeancompr.com/moviepages/100517_006/images/l_l.jpg",Sweet Home ~Hなお姉さんは好きですか？~ 三甘
-
+https://vip1.bfbfhao.com/20210709/mcT8qcUx/800kb/hls/index.m3u8
 #EXTINF:-1 group-title="ANIME" tvg-logo="https://www.caribbeancompr.com/moviepages/121217_002/images/l_l.jpg",殻ノ少女 第1話
 https://b.gg155gg1.com/20250506/Elysvcli/2000kb/hls/index.m3u8
 #EXTINF:-1 group-title="ANIME" tvg-logo="https://www.caribbeancompr.com/moviepages/121217_003/images/l_l.jpg",殻ノ少女 第2話
 https://lajiao-bo.com/20190508/hgjOwQpq/800kb/hls/index.m3u8
 #EXTINF:-1 group-title="ANIME" tvg-logo="https://www.caribbeancompr.com/moviepages/061918_001/images/l_l.jpg",寝取られファイター ヤリっちんぐ！ ROUND1
-
+https://lajiao-bo.com/20190508/yi8yjuHb/800kb/hls/index.m3u8
 #EXTINF:-1 group-title="ANIME" tvg-logo="https://www.caribbeancompr.com/moviepages/070318_001/images/l_l.jpg",寝取られファイター ヤリっちんぐ！ ROUND2
-
+https://lajiao-bo.com/20190508/Ai8K1dRo/800kb/hls/index.m3u8
 #EXTINF:-1 group-title="ANIME" tvg-logo="https://www.caribbeancompr.com/moviepages/071018_001/images/l_l.jpg",寝取られファイター ヤリっちんぐ！ ROUND3
-
+https://lajiao-bo.com/20190508/p51Vz620/800kb/hls/index.m3u8
 #EXTINF:-1 group-title="ANIME" tvg-logo="https://www.caribbeancompr.com/moviepages/030618_001/images/l_l.jpg",指先案内人 汁だく接待おかわり三杯目 第一話
 https://vip1.bf155bf.com/20240912/UTh4cpcp/2000kb/hls/index.m3u8
 #EXTINF:-1 group-title="ANIME" tvg-logo="https://www.caribbeancompr.com/moviepages/030618_002/images/l_l.jpg",指先案内人 汁だく接待おかわり三杯目 第二話
 https://vip1.bf155bf.com/20240911/UyUHmmS0/2000kb/hls/index.m3u8
 #EXTINF:-1 group-title="ANIME" tvg-logo="https://www.caribbeancompr.com/moviepages/030618_003/images/l_l.jpg",指先案内人 汁だく接待おかわり三杯目 第三話
 https://vip1.bf155bf.com/20240912/BYPdIvQ1/2000kb/hls/index.m3u8
-#EXTINF:-1 group-title="ANIME" tvg-logo="",
-
-#EXTINF:-1 group-title="ANIME" tvg-logo="",
 
 
 【JAVHD】
