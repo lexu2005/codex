@@ -80,7 +80,8 @@ http://bestiptvgo.net:80/live/2E3LJPJ/WNSMMKF/1119956.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.0377867684 Safari/537.36|x-stream-auth=aDXAeW7nTZt9
-https://linears2-playback.astro.com.my/vsg/41LKFCBxipdK-nzac0jJxfaX7Npl_5xjapxFDY68DVu7U=sIlM/dash-wv/jitp-linearwm/1004/default_ott.mpd
+###https://linears2-playback.astro.com.my/vsg/41LKFCBxipdK-nzac0jJxfaX7Npl_5xjapxFDY68DVu7U=sIlM/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://abeott.short.gy/UFJT
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
 #EXTINF:-1 tvg-id="astro193" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",104 Astro Ria Feed 4
@@ -640,8 +641,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 #EXTVLCOPT:avcodec-hw=any
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-continuous=true
-http://46.38.157.60:19890/trams/1015/playlist.m3u8?token=passwd
-###https://play-drm.aliiptv.com/live/hbotw.m3u8?verify=1790056444-tDBo1je7aKklYPa7xgm2umnr4TGv8S5mpTeKOZX4rPs
+http://202.150.165.66:8088/play/100-HBO/index.m3u8
+###http://46.38.157.60:19890/trams/1015/playlist.m3u8?token=passwd
 
 #EXTINF:-1 tvg-id="CinemaxHD.sg" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png",418 Cinemax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -665,8 +666,8 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 #EXTVLCOPT:avcodec-hw=any
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-continuous=true
-http://46.38.157.60:19890/trams/2782/playlist.m3u8?token=passwd
-###https://play-drm.aliiptv.com/live/HBOHitsHD.m3u8?verify=1790056376-3h4Cr8Ngj_O6ExW3QRz_qEjYgxMOSj9PVrSZRMaFZz
+http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
+###http://46.38.157.60:19890/trams/2782/playlist.m3u8?token=passwd
 
 #EXTINF:-1 tvg-id="HBOSignatureHD.sg" group-title="Movies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png?w=272",421 HBO Signature
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -676,8 +677,8 @@ http://46.38.157.60:19890/trams/2782/playlist.m3u8?token=passwd
 #EXTVLCOPT:avcodec-hw=any
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-continuous=true
-http://46.38.157.60:19890/trams/2722/playlist.m3u8?token=passwd
-###https://play-drm.aliiptv.com/live/HBOSignature.m3u8?verify=1790056398-aY7FJgRtwYT7vaYqSY2n72NJLtpKXweF7dZ3yOWnKX4
+###http://46.38.157.60:19890/trams/2722/playlist.m3u8?token=passwd
+http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8
 
 
 #EXTINF:-1 tvg-id="CinemaWorldHD" group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Cinema_World.png",422 CinemaWorld
