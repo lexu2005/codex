@@ -1,41 +1,39 @@
 import os
+import glob
 
-# Define the exact names of your 10 files
-playlist_files = [f"list{i}.m3u" for i in range(1, 25)]
 output_file = "combined_iptv_playlist.m3u"
-
 combined_lines = []
 header_added = False
 
-print("Merging IPTV playlists...")
+# This automatically finds ALL files that start with 'list' and end with '.m3u'
+# It works for list1.m3u, List2.M3U, list10.m3u, etc.
+playlist_files = glob.glob("list*.m3u", recursive=True) + glob.glob("List*.m3u", recursive=True)
+# Remove duplicate file paths if any overlap occurred
+playlist_files = list(set(playlist_files))
+# Sort them so they merge in order (list1, list2, etc.)
+playlist_files.sort()
+
+print(f"Found {len(playlist_files)} playlist files to merge: {playlist_files}")
+
+if not playlist_files:
+    print("❌ Error: No files starting with 'list' and ending with '.m3u' were found in the folder!")
+    exit(1)
 
 for filename in playlist_files:
-    if not os.path.exists(filename):
-        print(f"⚠️ Warning: {filename} not found, skipping.")
-        continue
-        
+    print(f"Merging: {filename}...")
     with open(filename, "r", encoding="utf-8", errors="ignore") as f:
-        lines = f.readlines()
-        
-        for line in lines:
-            # Check for the mandatory IPTV header line
+        for line in f:
             if line.strip().startswith("#EXTM3U"):
-                # Only keep the very first header found across all files
                 if not header_added:
                     combined_lines.append(line)
                     header_added = True
-                else:
-                    continue  # Skip duplicate headers
             else:
                 combined_lines.append(line)
 
-# Fallback if no files had a header
 if not header_added:
     combined_lines.insert(0, "#EXTM3U\n")
 
-# Save the unified file
 with open(output_file, "w", encoding="utf-8") as out_f:
     out_f.writelines(combined_lines)
 
-print(f"✅ Successfully created: {output_file}")
-print(f"Total lines written: {len(combined_lines)}")
+print(f"✅ Successfully created: {output_file} with {len(combined_lines)} lines.")
