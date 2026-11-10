@@ -1,7 +1,7 @@
 import os
 
 # Define the exact names of your 10 files
-playlist_files = [f"list{i}.m3u" for i in range(1, 11)]
+playlist_files = [f"list{i}.m3u" for i in range(1, 25)]
 output_file = "combined_iptv_playlist.m3u"
 
 combined_lines = []
